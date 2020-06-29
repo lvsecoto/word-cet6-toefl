@@ -1,9 +1,3 @@
-amendment
-cuban
-ford
-hispanic
-scotch
-a
 a
 abandon
 abandoned
@@ -157,7 +151,6 @@ alert
 algae
 alike
 all
-all
 allegation
 allegory
 alliteration
@@ -274,16 +267,12 @@ article
 artificial
 artisan
 as
-as
-as
-as
 ascending
 ascent
 aspect
 aspiring
 assemblage
 assemble
-assembly
 assembly
 assess
 assessment
@@ -309,8 +298,6 @@ astronomical
 astronomy
 astute
 asymmetrical
-at
-at
 at
 atheist
 athlete
@@ -376,6 +363,7 @@ backpack
 baggage
 balance
 balanced
+bald
 ballet
 balloon
 balloonist
@@ -405,8 +393,6 @@ barrier
 barter
 basement
 basin
-be
-be
 be
 beaded
 beam
@@ -448,7 +434,6 @@ blame
 bland
 blanket
 blast
-blast
 blazing
 blend
 blessing
@@ -484,9 +469,6 @@ braid
 brain
 brawl
 brawling
-break
-break
-break
 break
 breakup
 breath
@@ -533,8 +515,6 @@ butter
 butterfly
 buzzer
 by
-by
-by
 by-product
 cab
 cabin
@@ -576,8 +556,6 @@ carnivorous
 carve
 carver
 cassette
-cast
-cast
 cast
 cast-iron
 casting
@@ -626,7 +604,6 @@ chaste
 chat
 chateau
 check
-check
 checkout
 checkup
 chef
@@ -663,8 +640,6 @@ circumstance
 citadel
 cite
 citizenship
-civil
-civil
 civil
 civilian
 civility
@@ -774,7 +749,6 @@ component
 compose
 composition
 compound
-compound
 comprehend
 comprehensible
 comprehension
@@ -830,7 +804,6 @@ conform
 conformity
 confront
 confuse
-confuse…with…
 confuse…with…
 confusion
 congenial
@@ -991,7 +964,6 @@ crimson
 crippling
 crisscross
 critical
-critical
 critique
 crooked
 crossbones
@@ -1006,6 +978,7 @@ crystalline
 crystallization
 crystallize
 crystallized
+cuban
 cube
 cubic
 cubism
@@ -1040,14 +1013,12 @@ dangerous
 daring
 dash
 date
-date
 dated
 daunting
 dawn
 dawning
 dazzling
 deadly
-deal
 deal
 debatable
 debate
@@ -1137,7 +1108,6 @@ depression
 deprivation
 deprive
 derivative
-derive
 derive
 desalination
 descend
@@ -1243,7 +1213,6 @@ dismiss
 disorganize
 dispatch
 dispense
-dispense
 dispersal
 disperse
 displace
@@ -1325,7 +1294,6 @@ doubtful
 down
 downtown
 draft
-draft
 drag
 dragonfly
 drain
@@ -1335,9 +1303,6 @@ dramatic
 dramatically
 dramatize
 drastic
-draw
-draw
-draw
 draw
 drawer
 drawing
@@ -1353,7 +1318,6 @@ drought
 drowsy
 drudgery
 ductile
-due
 due
 dues
 dull
@@ -1567,7 +1531,6 @@ explosive
 exponential
 exposure
 express
-express
 expressive
 expressly
 extend
@@ -1630,7 +1593,6 @@ favorable
 favored
 feasible
 feed
-feed
 feeder
 fencing
 fend
@@ -1690,7 +1652,6 @@ flexible
 flickering
 flint
 float
-flock
 flock
 floodplain
 flora
@@ -1822,7 +1783,6 @@ genuine
 geomagnetic
 germ
 get
-get
 giant
 gibe
 gigantic
@@ -1867,9 +1827,6 @@ grasp
 grasshopper
 grateful
 gravitation
-gravitational
-gravitational
-gravitational
 gravitational
 gravity
 grazing
@@ -1956,6 +1913,7 @@ hilly
 hinder
 hint
 hinterland
+hispanic
 hoe
 hold
 hollow
@@ -1970,7 +1928,6 @@ horn
 hornbill
 horned
 hornet
-horror
 horror
 horticulture
 hospitable
@@ -1994,7 +1951,6 @@ hydrogen
 hydrosphere
 hypersensitive
 hypothesize
-ice
 ice
 icicle
 iconographic
@@ -2031,7 +1987,6 @@ immigration
 immobile
 immobilize
 immune
-immune
 immunity
 impact
 impartial
@@ -2058,11 +2013,6 @@ improvise
 improviser
 improvision
 impulse
-in
-in
-in
-in
-in
 in
 inability
 inaccessible
@@ -2311,7 +2261,6 @@ kingdom
 knapsack
 kymograph
 labor
-labor
 laborer
 laborious
 laboriously
@@ -2409,11 +2358,9 @@ locoweed
 lodge
 lodging
 log
-log
 logic
 logical
 long-lasting
-long-range
 long-range
 long-standing
 loose
@@ -2600,6 +2547,7 @@ myth
 mythical
 mythology
 naked
+nan
 narcotic
 narrator
 native
@@ -2791,8 +2739,6 @@ oxygen
 oyster
 ozone
 pack
-pack
-pack
 package
 packaging
 packed
@@ -2834,7 +2780,6 @@ patroller
 patronizing
 paucity
 pauper
-pave
 pave
 paycheck
 peak
@@ -2973,7 +2918,6 @@ polygon
 polygonal
 popcorn
 popular
-popular
 popularity
 populous
 porcupine
@@ -2990,7 +2934,6 @@ possess
 possession
 post
 postage
-postal
 postal
 postcard
 postdate
@@ -3061,7 +3004,6 @@ prevalent
 primal
 primary
 primate
-prime
 prime
 primitive
 primordial
@@ -3191,7 +3133,6 @@ rampant
 rancher
 ranching
 range
-range
 rank
 rare
 rarefy
@@ -3266,7 +3207,6 @@ refrigerate
 refrigeration
 refrigerator
 refurbish
-regardless
 regardless
 regenerate
 regeneration
@@ -3594,7 +3534,6 @@ shrink
 shrinkage
 shrivel
 shuffle
-shuffle
 shutter
 shuttle
 shy
@@ -3618,7 +3557,6 @@ skeleton
 sketch
 skimp
 skip
-skip
 skyrocket
 skyscraper
 slab
@@ -3631,7 +3569,6 @@ slight
 slightly
 slime
 slimy
-slip
 slip
 slipper
 slippery
@@ -3656,7 +3593,6 @@ snug
 sociable
 social
 softwood
-solar
 solar
 solder
 soldier
@@ -3706,6 +3642,7 @@ sphere
 spherical
 spill
 spinach
+spinal
 spine
 spined
 spinet
@@ -3746,7 +3683,6 @@ stain
 stained
 staircase
 stamina
-stand
 stand
 standard
 standardize
@@ -3899,6 +3835,7 @@ survivability
 survival
 survive
 survivor
+susceptible
 suspect
 suspend
 suspender
@@ -4015,7 +3952,6 @@ threadlike
 threaten
 threateningly
 three-dimensional
-thrive
 thrive
 thrust
 thunderstorm
@@ -4321,7 +4257,6 @@ wax
 waxy
 weapon
 wear
-wear
 weariness
 weather
 weathering
@@ -4368,8 +4303,6 @@ yardstick
 yarn
 yelp
 yield
-yield
 yolk
 zenith
 zone
-nan
