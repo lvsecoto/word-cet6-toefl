@@ -36,11 +36,24 @@ final_list=list(set(s_list))
 print('set length',len(final_list))
 final_list.sort()
 
+ft=open('toefl.txt','r')
+ff=ft.read()
+fl=ff.split('\n')
+ft.close()
 s=''
-for i in final_list:
-    s+=i+'\n'
+for j in fl:
+    j = j.lower()
+    for i in final_list:
+        if j.find(i)>=0 and len(i)>2 :
+            s+=j+ '\n'
 
+sout=list(set(s.split('\n')))
+sout.sort()
+print(len(sout), type(sout))
 f=open('out.txt','w')        
+sw = ''
+for si in list(sout):
+    sw=sw+si+'\n'
 
-f.write(s)
+f.write(sw)
 f.close()
